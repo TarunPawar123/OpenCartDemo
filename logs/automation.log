@@ -1,0 +1,113 @@
+19:39:12.431 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+19:39:13.016 [main] INFO  TestC.TC_01_login - Clicked on Account
+19:39:13.865 [main] INFO  TestC.TC_01_login - Clicked on Login
+19:39:14.315 [main] INFO  TestC.TC_01_login - Entered Username successfully
+19:39:14.434 [main] INFO  TestC.TC_01_login - Successfully entered password
+19:39:14.562 [main] INFO  TestC.TC_01_login - Logged in successfully
+19:41:31.694 [main] INFO  TestC.TC_01_login - Clicked on Account
+19:41:32.395 [main] INFO  TestC.TC_01_login - Clicked on Login
+19:41:32.595 [main] INFO  TestC.TC_01_login - Entered Username successfully
+19:41:32.688 [main] INFO  TestC.TC_01_login - Successfully entered password
+19:41:32.764 [main] INFO  TestC.TC_01_login - Logged in successfully
+19:42:44.473 [main] DEBUG TestC.TC_01_login - ***TC_01_login Start****
+19:42:44.757 [main] INFO  TestC.TC_01_login - Clicked on Account
+19:42:45.773 [main] INFO  TestC.TC_01_login - Clicked on Login
+19:42:45.945 [main] INFO  TestC.TC_01_login - Entered Username successfully
+19:42:46.045 [main] INFO  TestC.TC_01_login - Successfully entered password
+19:42:46.124 [main] INFO  TestC.TC_01_login - Logged in successfully
+19:46:03.909 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+19:46:04.025 [main] INFO  TestC.TC_01_login - Clicked on Account
+19:46:04.952 [main] INFO  TestC.TC_01_login - Clicked on Login
+19:46:05.130 [main] INFO  TestC.TC_01_login - Entered Username successfully
+19:46:05.229 [main] INFO  TestC.TC_01_login - Successfully entered password
+19:46:05.308 [main] INFO  TestC.TC_01_login - Logged in successfully
+19:56:59.459 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+19:56:59.586 [main] INFO  TestC.TC_01_login - Clicked on Account
+19:57:01.350 [main] INFO  TestC.TC_01_login - Clicked on Login
+19:57:01.509 [main] INFO  TestC.TC_01_login - Entered Username successfully
+19:57:01.626 [main] INFO  TestC.TC_01_login - Successfully entered password
+19:57:01.704 [main] INFO  TestC.TC_01_login - Logged in successfully
+19:57:51.112 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+19:57:51.282 [main] INFO  TestC.TC_01_login - Clicked on Account
+19:57:51.977 [main] INFO  TestC.TC_01_login - Clicked on Login
+19:57:52.154 [main] INFO  TestC.TC_01_login - Entered Username successfully
+19:57:52.254 [main] INFO  TestC.TC_01_login - Successfully entered password
+19:57:52.337 [main] INFO  TestC.TC_01_login - Logged in successfully
+20:08:03.453 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+20:08:03.593 [main] INFO  TestC.TC_01_login - Clicked on Account
+20:08:04.776 [main] INFO  TestC.TC_01_login - Clicked on Login
+20:08:05.026 [main] INFO  TestC.TC_01_login - Entered Username successfully
+20:08:05.145 [main] INFO  TestC.TC_01_login - Successfully entered password
+20:08:05.231 [main] INFO  TestC.TC_01_login - Logged in successfully
+20:20:59.471 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+20:20:59.591 [main] INFO  TestC.TC_01_login - Clicked on Account
+20:21:00.502 [main] INFO  TestC.TC_01_login - Clicked on Login
+20:21:00.678 [main] INFO  TestC.TC_01_login - Entered Username successfully
+20:21:00.780 [main] INFO  TestC.TC_01_login - Successfully entered password
+20:21:00.869 [main] INFO  TestC.TC_01_login - Logged in successfully
+20:29:45.621 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+20:29:45.740 [main] INFO  TestC.TC_01_login - Clicked on Account
+20:29:46.227 [main] INFO  TestC.TC_01_login - Clicked on Login
+20:29:46.400 [main] INFO  TestC.TC_01_login - Entered Username successfully
+20:29:46.520 [main] INFO  TestC.TC_01_login - Successfully entered password
+20:29:46.600 [main] INFO  TestC.TC_01_login - Logged in successfully
+20:34:47.871 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+20:34:47.997 [main] INFO  TestC.TC_01_login - Clicked on Account
+20:34:48.930 [main] INFO  TestC.TC_01_login - Clicked on Login
+20:34:49.107 [main] INFO  TestC.TC_01_login - Entered Username successfully
+20:34:49.212 [main] INFO  TestC.TC_01_login - Successfully entered password
+20:34:49.299 [main] INFO  TestC.TC_01_login - Logged in successfully
+20:40:07.741 [TestNG-tests-1] INFO  TestC.TC_01_login - ***TC_01_login Start****
+20:40:07.874 [TestNG-tests-1] INFO  TestC.TC_01_login - Clicked on Account
+20:40:08.507 [TestNG-tests-1] INFO  TestC.TC_01_login - Clicked on Login
+20:40:08.685 [TestNG-tests-1] INFO  TestC.TC_01_login - Entered Username successfully
+20:40:08.783 [TestNG-tests-1] INFO  TestC.TC_01_login - Successfully entered password
+20:40:08.872 [TestNG-tests-1] INFO  TestC.TC_01_login - Logged in successfully
+23:08:02.163 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+23:08:02.570 [main] INFO  TestC.TC_01_login - Clicked on Account
+23:08:03.190 [main] INFO  TestC.TC_01_login - Clicked on Login
+23:08:03.365 [main] INFO  TestC.TC_01_login - Entered Username successfully
+23:08:03.469 [main] INFO  TestC.TC_01_login - Successfully entered password
+23:08:03.559 [main] INFO  TestC.TC_01_login - Logged in successfully
+13:21:27.053 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+13:21:27.326 [main] INFO  TestC.TC_01_login - Clicked on Account
+13:21:27.768 [main] INFO  TestC.TC_01_login - Clicked on Login
+13:21:27.939 [main] INFO  TestC.TC_01_login - Entered Username successfully
+13:21:28.064 [main] INFO  TestC.TC_01_login - Successfully entered password
+13:21:28.146 [main] INFO  TestC.TC_01_login - Logged in successfully
+13:27:08.284 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+13:27:08.490 [main] INFO  TestC.TC_01_login - Clicked on Account
+13:27:08.957 [main] INFO  TestC.TC_01_login - Clicked on Login
+13:27:09.160 [main] INFO  TestC.TC_01_login - Entered Username successfully
+13:27:09.306 [main] INFO  TestC.TC_01_login - Successfully entered password
+13:27:09.397 [main] INFO  TestC.TC_01_login - Logged in successfully
+13:35:11.944 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+13:35:12.229 [main] INFO  TestC.TC_01_login - Clicked on Account
+13:35:12.852 [main] INFO  TestC.TC_01_login - Clicked on Login
+13:35:13.055 [main] INFO  TestC.TC_01_login - Entered Username successfully
+13:35:13.185 [main] INFO  TestC.TC_01_login - Successfully entered password
+13:35:13.314 [main] INFO  TestC.TC_01_login - Logged in successfully
+21:26:09.593 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+21:26:09.716 [main] INFO  TestC.TC_01_login - Clicked on Account
+21:26:10.707 [main] INFO  TestC.TC_01_login - Clicked on Login
+21:26:10.902 [main] INFO  TestC.TC_01_login - Entered Username successfully
+21:26:11.019 [main] INFO  TestC.TC_01_login - Successfully entered password
+21:26:11.129 [main] INFO  TestC.TC_01_login - Logged in successfully
+19:19:32.209 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+19:19:32.580 [main] INFO  TestC.TC_01_login - Clicked on Account
+19:19:33.679 [main] INFO  TestC.TC_01_login - Clicked on Login
+19:19:33.841 [main] INFO  TestC.TC_01_login - Entered Username successfully
+19:19:33.940 [main] INFO  TestC.TC_01_login - Successfully entered password
+19:19:34.024 [main] INFO  TestC.TC_01_login - Logged in successfully
+20:11:19.312 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+20:11:19.536 [main] INFO  TestC.TC_01_login - Clicked on Account
+20:11:20.428 [main] INFO  TestC.TC_01_login - Clicked on Login
+20:11:20.653 [main] INFO  TestC.TC_01_login - Entered Username successfully
+20:11:20.789 [main] INFO  TestC.TC_01_login - Successfully entered password
+20:11:20.893 [main] INFO  TestC.TC_01_login - Logged in successfully
+20:26:59.543 [main] INFO  TestC.TC_01_login - ***TC_01_login Start****
+20:26:59.828 [main] INFO  TestC.TC_01_login - Clicked on Account
+20:27:00.598 [main] INFO  TestC.TC_01_login - Clicked on Login
+20:27:00.761 [main] INFO  TestC.TC_01_login - Entered Username successfully
+20:27:00.864 [main] INFO  TestC.TC_01_login - Successfully entered password
+20:27:00.945 [main] INFO  TestC.TC_01_login - Logged in successfully
